@@ -1,1 +1,1 @@
-# This is my neovim config. Ignore the commit message please :)
+# This is my neovim config. ~/.config/nvim :)
